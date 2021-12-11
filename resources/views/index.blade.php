@@ -69,10 +69,10 @@
                 <p>Designer, Developer, Freelancer</p>
 
                 <ul class="list-unstyled list-social">
-                    <li><a href="#"><i class="bi bi-facebook"></i></a></li>
-                    <li><a href="#"><i class="bi bi-twitter"></i></a></li>
-                    <li><a href="#"><i class="bi bi-instagram"></i></a></li>
-                    <li><a href="#"><i class="bi bi-linkedin"></i></a></li>
+                    <li><a href="https://facebook.com/deni.acsel/"><i class="bi bi-facebook"></i></a></li>
+                    <li><a href="https://twitter.com/deni_saputraaaa"><i class="bi bi-twitter"></i></a></li>
+                    <li><a href="https://www.instagram.com/deni.saputraaaa/"><i class="bi bi-instagram"></i></a></li>
+                    <li><a href="https://www.linkedin.com/in/deni-saputra-2027941ab/"><i class="bi bi-linkedin"></i></a></li>
                 </ul>
             </div>
         </div>
@@ -214,7 +214,7 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-logo">
                         <img src="/img/portfolio/logo2.jpg" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <h4>Kayla Jamur Crispy</h4>
@@ -226,12 +226,12 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                        <img src="/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-logo">
+                        <img src="/img/portfolio/logo3.jpg" class="img-fluid" alt="">
                         <div class="portfolio-info">
-                            <h4>App 2</h4>
-                            <p>App</p>
-                            <a href="/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery"
+                            <h4>ARIN</h4>
+                            <p>Logo</p>
+                            <a href="/img/portfolio/logo3.jpg" data-gallery="portfolioGallery"
                                 class="portfolio-lightbox preview-link" title="App 2"><i class="bx bx-plus"></i></a>
                             <a href="portfolio-details.html" class="details-link" title="More Details"><i
                                     class="bx bx-link"></i></a>
@@ -284,7 +284,7 @@
         </div><!-- End Portfolio Section -->
 
         <!-- ======= Journal Section ======= -->
-        <div id="journal" class="text-left paddsection">
+        {{-- <div id="journal" class="text-left paddsection">
 
             <div class="container">
                 <div class="section-title text-center">
@@ -354,7 +354,8 @@
                 </div>
             </div>
 
-        </div><!-- End Journal Section -->
+        </div> --}}
+        <!-- End Journal Section -->
 
         <!-- ======= Contact Section ======= -->
         <div id="contact" class="paddsection">
